@@ -4,12 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Self taught software developer located in Vancouver, BC.
+
+Currently working as a Team Lead for [Pagefreezer Software Inc.](https://www.pagefreezer.com) using
+
+* Python
+* Tornado
+* Django
+* Celery
+* Cassandra
+* Postgres
+* MongoDB
+* RabbitMQ
+* ElasticSearch7
+* Redis
+* RedisBloom
+* ELK
+* Grafana
+* Influx DB
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Outside of work I'm passionate about sports and fitness, cooking, baking, and exploring the beautiful province of BC
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Passionate about mentorship and sponsorship, feel free to email me if you want to chat
+
+[dylankirbydev@outlook.com](mailto:dylankirbydev@outlook.com)
