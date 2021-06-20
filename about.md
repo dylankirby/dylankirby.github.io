@@ -26,7 +26,7 @@ Currently working as a Team Lead for [Pagefreezer Software Inc.](https://www.pag
 
 ### More Information
 
-Outside of work I'm passionate about sports and fitness, cooking, baking, and exploring the beautiful province of BC
+In my free time I'm passionate about health and fitness, cooking, baking, and exploring the beautiful province of BC
 
 ### Contact me
 
