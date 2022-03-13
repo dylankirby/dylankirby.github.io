@@ -1,0 +1,1 @@
+Everyone is stupid, you know best, control as much as you can and provide well defined interfaces

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 Self taught software developer located in Vancouver, BC.
 
-Currently working as a Team Lead for [Pagefreezer Software Inc.](https://www.pagefreezer.com) using
+Currently working as a Senior Engineer and Team Lead for [Pagefreezer Software Inc.](https://www.pagefreezer.com) using
 
 * Python
 * Tornado
@@ -30,6 +30,6 @@ In my free time I'm passionate about health and fitness, cooking, baking, and ex
 
 ### Contact me
 
-Passionate about mentorship and sponsorship, feel free to email me if you want to chat
+Passionate about mentorship and sponsorship? feel free to email me if you want to chat
 
 [dylankirbydev@outlook.com](mailto:dylankirbydev@outlook.com)
