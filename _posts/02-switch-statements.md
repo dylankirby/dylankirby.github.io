@@ -1,4 +1,5 @@
 ---
 layout: post
-title: "On Python Switch Statements"
+title: "On Python's new Exception Grouping"
 ---
+

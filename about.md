@@ -23,13 +23,8 @@ Currently working as a Senior Engineer and Team Lead for [Pagefreezer Software I
 * Grafana
 * Influx DB
 
-
-### More Information
-
-In my free time I'm passionate about health and fitness, cooking, baking, and exploring the beautiful province of BC
-
 ### Contact me
 
-Passionate about mentorship and sponsorship? feel free to email me if you want to chat
+Passionate about mentorship and sponsorship? Feel free to email me if you want to chat
 
 [dylankirbydev@outlook.com](mailto:dylankirbydev@outlook.com)
