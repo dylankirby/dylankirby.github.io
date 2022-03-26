@@ -11,7 +11,7 @@ I realized that this habit I depend on so heavily as an engineer was something I
 
 It was at that point that I decided to sit down and assess the strengths and weaknesses of the developers on my team, and set out a list of areas of improvement for them, as well areas where they already excelled. I sat down the each one of them, and spent the time to have the conversation about their own goals, their stengths and weaknesses. Coming out of that meeting we both had very clear ideas of what they needed to focus on this year, and what opportunities would help get them there. 
 
-As we progressed through the year, this knowledge proved invaluable in knowing when to delegate certain tasks to each of them, giving some people design documentation tasks to improve their communication skills, and giving others control of a small project (and stepping back to make space for them to own it) to plan, organize, and execute on. 
+As we progressed through the year, this knowledge proved invaluable in knowing when to delegate certain tasks to each of them, giving some people documentation tasks to improve their communication skills, and giving others control of a small project (and stepping back to make space for them to own it) to plan, organize, and execute on. 
 
 This style of leadership feels like a lot more work than it did to be passive, it takes mental energy to get the ball rolling, to get people to engage and share their goals, to give them meaningful feedback, and craft a years long plan to grow their skillset, but it's necessary.
 
