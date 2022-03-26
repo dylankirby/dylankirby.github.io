@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Self taught software developer located in Vancouver, BC.
+Self taught Software Engineer located in Vancouver, BC.
 
 Currently working as a Senior Engineer and Team Lead for [Pagefreezer Software Inc.](https://www.pagefreezer.com) using
 
